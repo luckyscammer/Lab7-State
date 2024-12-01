@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"work7","l":"EraserTool"},{"p":"<Unnamed>","l":"Main"},{"p":"work7","l":"PencilTool"},{"p":"work7","l":"SelectionTool"},{"p":"work7","l":"Tool"},{"p":"work7","l":"Workspace"}];updateSearchResults();
